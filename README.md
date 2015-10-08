@@ -5,7 +5,7 @@ During January’s 1-night count over 10,000 homeless individuals were counted i
 - shelters and soup kitchens requesting supplies
 - individuals and companies hoping to lend a helping hand
 - individuals who are willing to donate their time to verify requests
-- 
+ 
 __User Stories__
 - All Users (authorized and unauthorized) Story
 - view approved projects
